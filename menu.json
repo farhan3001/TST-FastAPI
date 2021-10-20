@@ -1,0 +1,28 @@
+{
+    "menu": [
+        {
+            "id": 1,
+            "name": "pear"
+        },
+        {
+            "id": 2,
+            "name": "banana"
+        },
+        {
+            "id": 3,
+            "name": "fish"
+        },
+        {
+            "id": 4,
+            "name": "milk"
+        },
+        {
+            "id": 5,
+            "name": "grape"
+        },
+        {
+            "id": 6,
+            "name": "beer"
+        }
+    ]
+}
