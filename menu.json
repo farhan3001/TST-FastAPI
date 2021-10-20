@@ -2,27 +2,23 @@
     "menu": [
         {
             "id": 1,
-            "name": "pear"
+            "name": "Telur"
         },
         {
             "id": 2,
-            "name": "banana"
+            "name": "Ayam"
         },
         {
             "id": 3,
-            "name": "fish"
+            "name": "Daging"
         },
         {
             "id": 4,
-            "name": "milk"
+            "name": "Roti"
         },
         {
             "id": 5,
-            "name": "grape"
-        },
-        {
-            "id": 6,
-            "name": "beer"
+            "name": "Sayur"
         }
     ]
 }
